@@ -4,6 +4,8 @@ Extracts frames from 360° videos and splits them into perspective tiles for use
 
 No installation required. Drop in a video, set your settings, click **PROCESS VIDEO**.
 
+![CN 360 Video Extractor](screenshot.png)
+
 ---
 
 ## How it works
